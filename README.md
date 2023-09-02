@@ -2,9 +2,9 @@
 **Objetivo:** Exercícios com PHP8 para o primeiro contato com a linguagem de programação.
 
 Criado a partir de uma atividade do meu curso "Informática para Internet" na ETEC PG, essa atividade testou meus conhecimentos iniciais sobre PHP8 com exercícios simples que requeriam o uso das Estruturas Condicionais If e Else nos 8 exercícios:
-<ul>
 
 ## Exercícios
+<ul>
   <li> 1 - O Maior N° Entre 2 Valores</li>
   <li> 2 - Verificação da Idade para se Votar</li>
   <li> 3 - Teste de Senha de Entrada</li>
